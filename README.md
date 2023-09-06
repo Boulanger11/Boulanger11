@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Boulanger 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/leonardo-boulanger-465456181/)
+)](https://www.linkedin.com/in/leonardo-boulanger-465456181/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo_boulanger/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/1/#inbox)
@@ -21,4 +21,5 @@
 )
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 )
+![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
